@@ -10,7 +10,8 @@ App can be closed only when window is shaking, just press ESC and wait 3s. You s
 OS.move_window_to_foreground()
 ```
 ## How does it work?
-First it pings a website http://myexternalip.com/raw to get IP adress. Then it runs many commands in cmd to get system information and reads the output.
+First it pings a website http://myexternalip.com/raw to get IP adress. Then it runs many commands in cmd such as `systeminfo`, `ipconfig` to get system information and then reads the output.
+
 After it's done on top of the screen displays your IP adress in rainbow colors and under it all system information with smoking Ralsei from Deltarune (yes).
 The window shakes and you can't close it by clicking X or using alt + f4
 
