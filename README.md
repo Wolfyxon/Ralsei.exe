@@ -9,7 +9,7 @@ App can be closed only when window is shaking, just press ESC and wait 3s. You s
 ```
 OS.move_window_to_foreground()
 ```
-but for some reason it doesn't work anymore.
+but for some reason it doesn't work anymore after I restarted my editor.
 
 ## How does it work?
 First it pings a website http://myexternalip.com/raw to get IP adress. Then it runs many commands in cmd such as `systeminfo`, `ipconfig` to get system information and then reads the output.
@@ -23,3 +23,7 @@ __IMPORTANT NOTE:__ I don't recommend downloading copies or forks of this reposi
 
 ## Why did you make this "virus"?
 Cause I was bored.
+
+## CREDITS
+Credits to Toby Fox for music Cybers world and original Ralsei sprite,
+and nlotch for Smoking Ralsei meme
