@@ -4,7 +4,7 @@
 
 **! IF YOU WANT TO RECORD AND PUBLISH VIDEO OF THIS, USE VPN OR BLUR EVERY INFO THE VIRUS DISPLAYS !**
 
-## How do I close it?
+## How to close it?
 App can be closed only when window is shaking, just press ESC and wait 3s. You shouldn't be able to close it using task manager because window is always  being moved to foreground.
 ```
 OS.move_window_to_foreground()
