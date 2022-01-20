@@ -9,7 +9,7 @@ App can be closed only when window is shaking, just press ESC and wait 3s. You s
 ```
 OS.move_window_to_foreground()
 ```
-but for some reason it doesn't work anymore after I restarted my editor.
+but sometimes it doesn't work
 
 ## How does it work?
 First it pings a website http://myexternalip.com/raw to get IP adress. Then it runs many commands in cmd such as `systeminfo`, `ipconfig` to get system information and then reads the output.
